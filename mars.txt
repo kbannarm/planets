@@ -1,8 +1,3 @@
-mars.txt
-cat mars.txt
-git status
-git add mars.txt
-git commit -m "starting to think about Mars"
-git commit -m "Starting to do notes on Mars"
-git log
+Cold and dry, but everything is my favourite color
+The two moons may be a problem for the wolfman
 
