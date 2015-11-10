@@ -1,0 +1,8 @@
+mars.txt
+cat mars.txt
+git status
+git add mars.txt
+git commit -m "starting to think about Mars"
+git commit -m "Starting to do notes on Mars"
+git log
+
